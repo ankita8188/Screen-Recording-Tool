@@ -39,8 +39,11 @@ Overall, the Screen Recording Tool is an essential solution for anyone looking t
 📌 How to Use-
 
 1️⃣ Open the app in your browser.
+
 2️⃣ Click on Start Recording to begin capturing your screen.
+
 3️⃣ Select the screen or window you want to record.
+
 4️⃣ Click Stop Recording to finish the recording, and the video will be available for download.
 
 
