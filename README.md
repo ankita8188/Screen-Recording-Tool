@@ -49,7 +49,9 @@ Overall, the Screen Recording Tool is an essential solution for anyone looking t
 
 🔥 Future Enhancements-
   ◾ Audio Recording: Add system and microphone audio recording support.
+  
   ◾ Video Editing Features: Integrate basic video editing tools like trimming and cutting.
+  
   ◾ Multiple Recording Modes: Allow users to record full screen, specific windows, or selected areas.
 
 
