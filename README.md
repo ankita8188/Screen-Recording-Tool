@@ -4,6 +4,7 @@
 The Screen Recording Tool is a versatile and efficient software designed to capture both screen activity and audio simultaneously, providing users with a seamless recording experience. This tool is perfect for creating tutorials, presentations, software demos, gameplay recordings, or simply documenting on-screen activities.
 
 🚀 Features
+
 ✅ Audio Recording – Record both system audio and microphone input.
 
 ✅ Customizable Recording Area – Choose to record the entire screen or a specific region.
