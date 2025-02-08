@@ -26,3 +26,37 @@ Overall, the Screen Recording Tool is an essential solution for anyone looking t
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/5575f2229497c631695aa2d22518f57fa82e571e/Screenshot%202025-02-08%20162729.png)
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/10d14eabdb5303aa54ad97cc25509f945ddd9ae3/aafa11f7-8d91-4b3b-b216-b6267e0dc445.jpg)
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/3e34688ec0d212fbee94881c294bfead568896cc/a1930963-b55f-4bbf-b876-1a881d4ef8e4.jpg)
+
+
+🛠️ Tech Stack  
+- *Frontend:* Next.js, Tailwind CSS  
+- *Backend:* Node.js, Express.js  
+- *Database:* MongoDB  
+- *MediaRecorder API: For recording the screen and audio  
+
+
+
+📌 How to Use-
+
+1️⃣ Open the app in your browser.
+2️⃣ Click on Start Recording to begin capturing your screen.
+3️⃣ Select the screen or window you want to record.
+4️⃣ Click Stop Recording to finish the recording, and the video will be available for download.
+
+
+🔥 Future Enhancements-
+  ◾ Audio Recording: Add system and microphone audio recording support.
+  ◾ Video Editing Features: Integrate basic video editing tools like trimming and cutting.
+  ◾ Multiple Recording Modes: Allow users to record full screen, specific windows, or selected areas.
+
+
+🤝 Contributor-
+   Ankita Tiwari ( https://github.com/ankita8188 )
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/ankita8188/CloudStream.git
+cd CloudStream
+
+
+
