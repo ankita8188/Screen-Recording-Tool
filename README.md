@@ -25,3 +25,4 @@ Overall, the Screen Recording Tool is an essential solution for anyone looking t
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/81c3bc38a833d3a4fddbcfbc90e4b12616616f44/Screenshot%202025-02-08%20162921.png)
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/5575f2229497c631695aa2d22518f57fa82e571e/Screenshot%202025-02-08%20162729.png)
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/10d14eabdb5303aa54ad97cc25509f945ddd9ae3/aafa11f7-8d91-4b3b-b216-b6267e0dc445.jpg)
+![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/3e34688ec0d212fbee94881c294bfead568896cc/a1930963-b55f-4bbf-b876-1a881d4ef8e4.jpg)
