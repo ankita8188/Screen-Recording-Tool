@@ -71,8 +71,8 @@ The Screen Recording Tool is a versatile and efficient software designed to capt
 ### 1️⃣ Clone the repository  
 
 ```bash
-git clone https://github.com/ankita8188/CloudStream.git
-cd CloudStream
+git clone https://github.com/ankita8188/RecPro.git
+
 
 
 
