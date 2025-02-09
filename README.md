@@ -56,6 +56,7 @@ The Screen Recording Tool is a versatile and efficient software designed to capt
 
 
 🔥 Future Enhancements-
+
   ◾ Audio Recording: Add system and microphone audio recording support.
   
   ◾ Video Editing Features: Integrate basic video editing tools like trimming and cutting.
