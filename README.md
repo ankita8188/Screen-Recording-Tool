@@ -13,6 +13,8 @@ The Screen Recording Tool is a versatile and efficient software designed to capt
 
 ✅ Multi-Screen Support – Record across multiple monitors simultaneously.
 
+📸 Project Screenshot
+
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/a5f22adea53fcdf46ffedc928f52cf92227fa3ce/010eaeaf-387f-4e5e-a504-917f40ec4546.jpg)
 
 ![image alt](https://github.com/ankita8188/Screen-Recording-Tool/blob/d9a8675a811035e2cc18ebd1162be80e6850a8d0/f14cb6e9-bec7-477b-8f33-7df0a319a5ca.jpg)
